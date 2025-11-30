@@ -1,10 +1,4 @@
-That's great\! Since you're setting up the **`README.md`** file for your **Quick Clone** plugin on GitHub, you need detailed information targeted at **developers and potential contributors**, not just end-users.
-
-Here is a detailed `README.md` content template tailored for your repository, including installation, development, and contribution guidelines.
-
------
-
-## 🚀 Quick Clone Plugin
+## 🚀 Quick Clone Wordpress Plugin 
 
 A simple, secure, one-click duplication utility for **WordPress Posts, Pages, and Custom Post Types**.
 
